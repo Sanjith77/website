@@ -2,7 +2,7 @@
 
 Welcome to Omnifood, we make healthy eating easy and enjoyable by offering personalized meal plans, ready-to-eat meals, and functional foods designed to fit your unique lifestyle and dietary needs. Whether you're looking to improve your health, boost your energy, or simply enjoy delicious, nutritious meals, Omnifood has you covered. At Omnifood, we believe that food is not just fuel but a cornerstone of health, performance, and well-being. Our Omnifood  is to transform the way people eat by providing tailored nutrition solutions that are convenient, sustainable, and scientifically validated.
 
-Why Choose Omnifood
+# Why Choose Omnifood
 
 Personalized Nutrition:
 
