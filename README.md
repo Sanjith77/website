@@ -16,9 +16,7 @@ Sustainability:
 
 Our ingredients are sustainably sourced, and our packaging is eco-friendly.
 
-Scientific Backing:
-
-Our products are developed with the expertise of nutritionists and dietitians.
+Visit Omnifood's Website to explore our products, learn more about our personalized nutrition plans, and join the revolution in healthy eating. With Omnifood, achieving your health and wellness goals has never been easier or more delicious.
 
 # LINK:https://devopsnhc10.github.io/website/
 
