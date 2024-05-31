@@ -18,5 +18,5 @@ Our ingredients are sustainably sourced, and our packaging is eco-friendly.
 
 Visit Omnifood's Website to explore our products, learn more about our personalized nutrition plans, and join the revolution in healthy eating. With Omnifood, achieving your health and wellness goals has never been easier or more delicious.
 
-# LINK:https://devopsnhc10.github.io/website/
+# LINK:https://sanjith77.github.io/website/
 
